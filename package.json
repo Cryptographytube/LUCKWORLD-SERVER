@@ -1,0 +1,19 @@
+{
+  "name": "luckworld-server",
+  "version": "1.0.0",
+  "description": "LUCK WORLD - Server-side blockchain scanner 24/7 with live streaming to all viewers",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.4",
+    "crypto-js": "^4.2.0",
+    "elliptic": "^6.5.4",
+    "js-sha3": "^0.8.0"
+  }
+}
