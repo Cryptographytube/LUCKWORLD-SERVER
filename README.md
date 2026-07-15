@@ -1,3 +1,3 @@
 # Crypto-Checker
 mnemonic-phrase
-https://luckworld-server.onrender.com
+https://cryptographytube.github.io/LUCKWORLD-SERVER
